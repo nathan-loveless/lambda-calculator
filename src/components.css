@@ -1,0 +1,16 @@
+.numbers-display
+{
+    
+
+}
+
+.specials-display
+{
+    font-size: 25px;
+    border: 1px black solid;
+    border-radius: 35px;
+    width: 70px;
+    height: 70px;
+
+    margin: 15px;
+}
